@@ -1,0 +1,14 @@
+.weather-display {
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 4px;
+    background-color: #f9f9f9;
+    display: inline-block;
+    text-align: left;
+  }
+  
+  .weather-display img {
+    width: 100px;
+    height: 100px;
+  }
+  
